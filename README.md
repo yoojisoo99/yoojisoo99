@@ -13,7 +13,7 @@
 - 🎓 경기대학교 AI컴퓨터공학부 컴퓨터공학전공 (2022.03 – 2026.02)
 - 🛡️ SK쉴더스 루키즈 5기 지능형 애플리케이션 개발자 트랙 (2026.01 – 2026.07)
 - ☁️ 클라우드 인프라 설계부터 침투 테스트까지, **만드는 것과 지키는 것**을 함께 고민합니다
-- 📝 트러블슈팅 과정을 [Velog](https://velog.io/@yoojisoo99)에 기록합니다
+- 📝 SK쉴더스 루키즈 멘토링 회고를 [Velog](https://velog.io/@yoojisoo99)에 기록합니다
 
 ---
 
@@ -49,7 +49,7 @@
 | **Onde** | 여행 예약 플랫폼 인프라 설계 + Burp Suite/ZAP 침투 테스트 | [Repo](https://github.com/UR-VULN) · [배포 링크](https://onde.click) |
 | **Argos** | Swagger 기반 자동화 취약점 진단 파이프라인 | [Repo](https://github.com/UR-VULN) |
 
-> 각 프로젝트의 트러블슈팅 과정은 레포 README와 Velog에 자세히 정리되어 있습니다.
+> 각 프로젝트의 트러블슈팅 과정은 레포 README에 자세히 정리되어 있습니다.
 
 ---
 
