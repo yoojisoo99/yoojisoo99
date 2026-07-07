@@ -54,6 +54,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoojisoo99&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoojisoo99&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoojisoo99&hide_border=true" width="65%"/>
 </p>
