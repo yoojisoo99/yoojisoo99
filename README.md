@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://velog.io/@yoojisoo99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-  <a href="mailto:yoojisoo99@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yoojisoo99@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
