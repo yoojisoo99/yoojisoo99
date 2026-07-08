@@ -47,7 +47,7 @@
 |---|---|---|
 | **가상계좌 결제 시스템** | EKS + Terraform + ArgoCD GitOps 파이프라인, 5인 팀 중 인프라 단독 설계 | [GitHub](https://github.com/miniPJT3) |
 | **Onde** | 여행 예약 플랫폼 인프라 설계 + Burp Suite/ZAP 침투 테스트 | [Repo](https://github.com/UR-VULN) · [배포 링크](https://onde.click) |
-| **Argos** | Swagger 기반 자동화 취약점 진단 파이프라인 | [Repo](https://github.com/UR-VULN) |
+| **Argos** | Swagger 기반 자동화 취약점 진단 파이프라인 | [Repo](https://github.com/UR-ARGUS) |
 
 > 각 프로젝트의 트러블슈팅 과정은 레포 README에 자세히 정리되어 있습니다.
 
