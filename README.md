@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요, 유지수입니다 ☁️</h1>
-<p align="center">인프라를 설계하고, 그걸 직접 공격해보며 검증하는 엔지니어를 목표로 합니다.</p>
+<p align="center">인프라를 설계하고, 그걸 검증하는 엔지니어를 목표로 합니다.</p>
 
 <p align="center">
   <a href="https://velog.io/@yoojisoo99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
