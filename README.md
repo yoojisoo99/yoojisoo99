@@ -47,8 +47,8 @@
 | 프로젝트 | 설명 | 링크 |
 |---|---|---|
 | **가상계좌 결제 시스템** | 3-Tier 망분리 구조 설계, Terraform으로 VPC·EKS·RDS·ElastiCache 코드화, GitHub Actions·ArgoCD GitOps 파이프라인 구축 (5인 팀 중 인프라 단독 설계, 8일) | [GitHub](https://github.com/miniPJT3) |
-| **Onde** | Multi-AZ 인프라 설계(EKS→EC2 비용 최적화), GitHub Actions+SSM 배포 파이프라인, Burp Suite·ZAP으로 권한상승·결제조작 취약점 발견 (7인 팀, 2인 인프라팀 팀장) | [Repo](https://github.com/UR-VULN) |
-| **Argos** | KISA/SK 가이드라인 기반 자동 취약점 진단 SaaS, 인프라 6개 모듈 팀 리딩 + PR 리뷰, AMI lifecycle 버그 수정 및 Secrets 전환 (7인 팀, 인프라 팀장) | [Repo](https://github.com/UR-VULN) |
+| **Onde** | Multi-AZ 인프라 설계(EKS→EC2 비용 최적화), GitHub Actions+SSM 배포 파이프라인, Burp Suite·ZAP으로 권한상승·결제조작 취약점 발견 (7인 팀, 2인 인프라팀 팀장) | [Repo](https://github.com/yoojisoo99/Onde_Infra) |
+| **Argos** | KISA/SK 가이드라인 기반 자동 취약점 진단 SaaS, 인프라 6개 모듈 팀 리딩 + PR 리뷰, AMI lifecycle 버그 수정 및 Secrets 전환 (7인 팀, 인프라 팀장) | [Repo](https://github.com/UR-ARGUS/ARGUS_Infra) |
 
 > 각 프로젝트의 트러블슈팅 과정은 레포 README에 자세히 정리되어 있습니다.
 
