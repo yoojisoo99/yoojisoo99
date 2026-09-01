@@ -2,7 +2,8 @@
 <p align="center">인프라를 설계하고, 그걸 검증하는 엔지니어를 목표로 합니다.</p>
 
 <p align="center">
-  <a href="https://velog.io/@yoojisoo99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://yoojisoo99.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://velog.io/@yoojisoo99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="mailto:yoojisoo99@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 </p>
 
@@ -45,9 +46,9 @@
 
 | 프로젝트 | 설명 | 링크 |
 |---|---|---|
-| **가상계좌 결제 시스템** | EKS + Terraform + ArgoCD GitOps 파이프라인, 5인 팀 중 인프라 단독 설계 | [GitHub](https://github.com/miniPJT3) |
-| **Onde** | 여행 예약 플랫폼 인프라 설계 + Burp Suite/ZAP 침투 테스트 | [Repo](https://github.com/UR-VULN) |
-| **Argos** | Swagger 기반 자동화 취약점 진단 파이프라인 | [Repo](https://github.com/UR-ARGUS) |
+| **가상계좌 결제 시스템** | 3-Tier 망분리 구조 설계, Terraform으로 VPC·EKS·RDS·ElastiCache 코드화, GitHub Actions·ArgoCD GitOps 파이프라인 구축 (5인 팀 중 인프라 단독 설계, 8일) | [GitHub](https://github.com/miniPJT3) |
+| **Onde** | Multi-AZ 인프라 설계(EKS→EC2 비용 최적화), GitHub Actions+SSM 배포 파이프라인, Burp Suite·ZAP으로 권한상승·결제조작 취약점 발견 (7인 팀, 2인 인프라팀 팀장) | [Repo](https://github.com/UR-VULN) · [배포 링크](https://onde.click) |
+| **Argos** | KISA/SK 가이드라인 기반 자동 취약점 진단 SaaS, 인프라 6개 모듈 팀 리딩 + PR 리뷰, AMI lifecycle 버그 수정 및 Secrets 전환 (7인 팀, 인프라 팀장) | [Repo](https://github.com/UR-VULN) |
 
 > 각 프로젝트의 트러블슈팅 과정은 레포 README에 자세히 정리되어 있습니다.
 
